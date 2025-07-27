@@ -12,4 +12,4 @@ string = input("enter the string: ")
 if is_palindrome(string):
     print("The string is palindrome.")
 else:
-    print("This is not palindrome.")    
+    print("This is not palindrome.")
